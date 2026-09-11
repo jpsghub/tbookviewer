@@ -1,0 +1,32 @@
+{
+  "name": "Textbook Viewer",
+  "short_name": "Textbook",
+  "description": "A simple offline textbook reader with page-turn animation, zoom, and an English-Tamil word lookup.",
+  "start_url": "./textbook-viewer.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#24392f",
+  "theme_color": "#2f4a3e",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
